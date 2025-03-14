@@ -5,7 +5,7 @@
 - 💻 Technologies: Ruby on Rails, Javascript, PHP, Python (basics).
 - 🌱 I’m currently learning: React, Node.js.
 - 📫 You can reach me at princywamal@gmail.com
-- 💼 Know about my experiences on [my LinkedIn](https://www.linkedin.com/in/princy-wamal-b7a01b137)
+- 💼 Know about my experiences on [my LinkedIn](https://www.linkedin.com/in/princywamal)
 
 <!---
 PrincyW/PrincyW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
