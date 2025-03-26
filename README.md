@@ -1,8 +1,8 @@
 ### 👋 Hello, I'm Princy!
 - 🤔 I'm an engineering and architecture graduate based in France who has developed a passion for graphic design and web development along the way.
-- 👀 I'm currently looking for a position as a web developer (mostly backend) in Toulouse.
-- 🎓 Education: Web development bootcamp at Le Wagon - Architecture/Engineering degree at INSA Strasbourg.
-- 💻 Technologies: Ruby on Rails, Javascript, PHP, Python (basics).
+- 👀 I'm currently looking for a position as a web developer in Toulouse.
+- 🎓 Education: Lead Developer training with Big Data specialisation at 3W Academy - Web development bootcamp at Le Wagon - Architecture/Engineering degree at INSA Strasbourg.
+- 💻 Technologies: Ruby on Rails, Javascript, PHP, PHP, Python (basics).
 - 🌱 I’m currently learning: React, Node.js.
 - 📫 You can reach me at princywamal@gmail.com
 - 💼 Know about my experiences on [my LinkedIn](https://www.linkedin.com/in/princywamal)
